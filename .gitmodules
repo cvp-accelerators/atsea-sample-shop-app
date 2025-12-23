@@ -1,0 +1,3 @@
+[submodule "fifer-sdlc-lite"]
+	path = fifer-sdlc-lite
+	url = git@github.com:cvp-accelerators/fifer-sdlc-lite.git

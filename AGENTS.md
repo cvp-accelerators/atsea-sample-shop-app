@@ -1,0 +1,1 @@
+./fifer-sdlc-lite/AGENTS.md
