@@ -1,3 +1,6 @@
+# Note - Thie Repo can be DELETED
+This repo was created to use as a sample app for testing fifer coding capabilities. The sample is no longer needed. I am archiving the repo and and someone with permission to delete may delete it at any time.
+
 ![](atsea_store.png)
 #  AtSea Shop Demonstration Application
 
